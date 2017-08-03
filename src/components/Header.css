@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  background-color: darkgrey;
+  border-bottom: 1px solid #8c8c8c; }
+  .header a {
+    color: white;
+    text-decoration: none;
+    padding: 2px 10px;
+    cursor: pointer;
+    transition: all .25s linear; }
+    .header a:hover {
+      color: black;
+      background-color: aquamarine; }
