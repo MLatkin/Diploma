@@ -1,0 +1,16 @@
+.about-page {
+  margin: auto;
+  width: 44.8%;
+  text-align: center;
+  font-size: 17px; }
+  .about-page h3 {
+    font-size: 40px;
+    line-height: 1.05;
+    font-weight: 100;
+    letter-spacing: .008em; }
+  .about-page p {
+    margin-top: -1.35em;
+    line-height: 1.5em;
+    font-weight: 100; }
+  .about-page img {
+    width: 40px; }

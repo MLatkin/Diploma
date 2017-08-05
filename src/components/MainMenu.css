@@ -1,0 +1,8 @@
+.main-menu {
+  display: flex;
+  flex-wrap: wrap; }
+  .main-menu div {
+    width: calc(50% - 22px);
+    border: 1px solid;
+    margin: 10px;
+    height: 470px; }
