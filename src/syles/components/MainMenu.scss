@@ -1,0 +1,27 @@
+.main-menu {
+  display: flex;
+  flex-wrap: wrap;
+  a {
+    width: calc(50% - 22px);
+    margin: 10px;
+    height: 470px;
+    div {
+      transition: all 0.15s linear;
+      &:hover {
+        border: 1px solid #ccc;
+        border-radius: 56px;
+        -webkit-box-shadow: 3px 32px 109px -23px rgba(0,0,0,0.75);
+        -moz-box-shadow: 3px 32px 109px -23px rgba(0,0,0,0.75);
+        box-shadow: 3px 32px 109px -23px rgba(0,0,0,0.75);
+      }
+      img {
+        width: 350px;
+        margin: 35px 65px;
+      }
+      p {
+        text-align: center;
+        text-decoration: none;
+      }
+    }
+  }
+}

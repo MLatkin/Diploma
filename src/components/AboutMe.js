@@ -1,7 +1,7 @@
 import React from 'react';
 import vk from '../images/vk.png';
 import git from '../images/git.png';
-import './AboutMe.css';
+import '../syles/components/AboutMe.css';
 
 const AboutMe = () => (
   <div className="about-page">
