@@ -6,25 +6,25 @@ import '../syles/components/MainMenu.css';
 const MainMenu = () => (
   <div className="main-menu">
 
-    <Link to="/games/category">
+    <Link to="/games/1">
       <div>
         <img src={joystick} alt="Games" />
         <p>Игры</p>
       </div>
     </Link>
-    <Link to="/games/category">
+    <Link to="/games/1">
       <div>
         <img src={joystick} alt="Games" />
         <p>Игры</p>
       </div>
     </Link>
-    <Link to="/games/category">
+    <Link to="/games/1">
       <div>
         <img src={joystick} alt="Games" />
         <p>Игры</p>
       </div>
     </Link>
-    <Link to="/games/category">
+    <Link to="/games/1">
       <div>
         <img src={joystick} alt="Games" />
         <p>Игры</p>

@@ -1,0 +1,5 @@
+.games-common {
+  display: flex; }
+  .games-common nav {
+    display: flex;
+    flex-direction: column; }
